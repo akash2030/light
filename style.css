@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #ebf5f4;
+}
+
+.light-full {
+    margin-top: 30vh;
+}
+
+.light {
+    width: 302px;
+    height: 200px;
+    margin: 2vh auto;
+}
+
+button {
+    padding: 8px 20px;
+    color: black;
+    background: #f19950cc;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+.light-text {
+    text-align: center;
+    margin: 5vh auto;
+}
+
+.light-text h2 {
+    margin: 10px 0;
+}
